@@ -18,7 +18,7 @@ Launch Vivado 2023.
 
 # Code
 # Mealy 1011
-// Verilog code
+## Verilog code
 ```
 module mealy_1011_detector(
     input clk,
@@ -106,7 +106,7 @@ end
 endmodule
 
 ```
-// Test bench
+## Test bench
 ```
 `timescale 1ns/1ps
 
@@ -167,7 +167,7 @@ endmodule
 
 
 # Moore 1011
-// write verilog code for ROM using $random
+## write verilog code for ROM using $random
 ```
 module moore_1011_detector(
     input clk,
@@ -229,7 +229,7 @@ endmodule
 
 ```
 
-// Test bench
+## Test bench
 ```
 module tb_moore_1011_detector;
 
@@ -276,7 +276,7 @@ endmodule
 
 ```
 
-## output Waveform
+## Output Waveform
 <img width="1359" height="766" alt="image" src="https://github.com/user-attachments/assets/e7baf3c8-f374-40cb-b0c4-b2af04a27dac" />
 
 
