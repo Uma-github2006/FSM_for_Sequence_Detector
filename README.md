@@ -8,7 +8,8 @@ To design and simulate a Finite-State-Machine-for-Sequence-Detector-1011 using V
 Vivado 2023.1
 
 # Procedure
-1.  Launch Vivado 2023.1 Open Vivado and create a new project.
+Launch Vivado 2023.
+1. Open Vivado and create a new project.
 2.  Design the Verilog Code Write the Verilog code for the RAM,ROM,FIFO Create the Testbench Write a testbench to simulate the memory behavior.
 3.  The testbench should apply various and monitor the corresponding output.
 4.  Create the Verilog Files Create both the design module and the testbench in the Vivado project. Run Simulation Run the behavioral simulation to verify the output.
@@ -18,6 +19,8 @@ Vivado 2023.1
 # Code
 # Mealy 1011
 // Verilog code
+```
+
 
 // Test bench
 
